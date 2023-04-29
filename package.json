@@ -1,0 +1,15 @@
+{
+  "name": "god_bot",
+  "version": "1.0.0",
+  "description": "randomly create evm wallet & fetch the wallet balance on chain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "ethers": "5",
+    "lodash": "^4.17.21"
+  },
+  "author": "elvinlong",
+  "license": "ISC"
+}
